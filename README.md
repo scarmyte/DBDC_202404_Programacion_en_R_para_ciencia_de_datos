@@ -5,7 +5,7 @@ Educación Profesional <br>
 **Relator:** Miguel Jorquera Viguera, majorquev@gmail.com <br>
 **Ayudante:** Rodrigo Morales, rumorale1@gmail.com
 
-# DBDC-2023 V14. Programación en R para Ciencia de Datos 
+# DBDC-2024 V15. Programación en R para Ciencia de Datos 
 Contiene el material y notebooks desarrollados el curso Introducción a R para Ciencia de datos 2023, del diplomado Big Data y Ciencia de Datos, Pontificia Universidad Católica de Chile.
 
 ### Resultados de Aprendizaje
